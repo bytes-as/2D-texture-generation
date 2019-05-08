@@ -1,2 +1,2 @@
-# train-generation
-Train Generated animation using single dimension Perlin Noise
+# 2Dimensional Texture Generation
+Using Perlin Noise in 2 dimension
